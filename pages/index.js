@@ -2,7 +2,7 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>this is app</div>
+    <div>hello this is the best thing </div>
   )
 }
 
