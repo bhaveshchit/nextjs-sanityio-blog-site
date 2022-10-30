@@ -1,0 +1,22 @@
+export default {
+    name:'author',
+    type:'document',
+    title:'author',
+    fields:[
+        {
+            name:'title',
+            type:'string',
+            title:'Title'
+        },
+        {
+            name:'about',
+            title:'About-Author',
+            type:'string'
+        },
+        {
+            name:'image',
+            type:'image',
+            title:'Image'
+        },
+    ]
+}
